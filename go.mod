@@ -7,7 +7,9 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/go-logr/logr v0.4.0
 	github.com/google/go-cmp v0.5.6
+	github.com/google/go-github/v36 v36.0.0
 	github.com/google/go-github/v37 v37.0.0
+	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/onsi/ginkgo v1.16.4
@@ -15,6 +17,7 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/teambition/rrule-go v1.6.2
 	go.uber.org/zap v1.19.0
+	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	k8s.io/api v0.21.1
